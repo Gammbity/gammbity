@@ -20,6 +20,14 @@ I'm Abdusamadov Abduboriy a full-stack, back-end developer
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens)
+![NGINX](https://img.shields.io/badge/NGINX-black?style=flat-square&logo=nginx)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-black?style=flat-square&logo=swagger)
+![Trello](https://img.shields.io/badge/Trello-black?style=flat-square&logo=trello)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+
