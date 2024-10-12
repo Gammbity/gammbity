@@ -23,7 +23,7 @@ I'm Abdusamadov Abduboriy a full-stack, back-end developer
 ![JWT](https://img.shields.io/badge/JWT-%2300BFFF?style=flat-square&logo=json-web-tokens)
 ![NGINX](https://img.shields.io/badge/NGINX-%2300BFFF?style=flat-square&logo=nginx)
 ![SQLite](https://img.shields.io/badge/SQLite-%233B8EB5?style=flat-square&logo=sqlite)
-![Postman](https://img.shields.io/badge/Postman-blue?style=flat-square&logo=postman)
+![Postman](https://img.shields.io/badge/Postman-DC382D?style=flat-square&logo=postman)
 ![Swagger](https://img.shields.io/badge/Swagger-%238CCB3F?style=flat-square&logo=swagger)
 ![Trello](https://img.shields.io/badge/Trello-%2300BFFF?style=flat-square&logo=trello)
 ![Git](https://img.shields.io/badge/Git-%23FF6C37?style=flat-square&logo=git)
