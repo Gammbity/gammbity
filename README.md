@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 I'm Abdusamadov Abduboriy a full-stack, back-end developer
 
-- 🔭 I’m currently studying on PDP University
+- 🔭 I’m currently studying at PDP University
 - 🌱 I’m currently learning django-restframework
 - 👯 I’m looking to collaborate on Django
 - 💬 Ask me about back-end, django
