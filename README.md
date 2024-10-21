@@ -14,6 +14,7 @@ I'm Abdusamadov Abduboriy a full-stack, back-end developer
 # Development Tools I've Learned
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-3E8E41?style=flat-square&logo=django&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
