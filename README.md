@@ -11,6 +11,14 @@ I'm Abdusamadov Abduboriy a full-stack, back-end developer
 - 📫 How to reach me: abduboriyabdusamdov66@gamil.com
 - 😄 Pronouns: He/Him
 
+<p align="center">
+  <h2 align="center">✦ 👋 Assalamu Alaikum! I'm Anasxon Ummataliy 🚀 ✦</h2>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&desc=Developer%20Journey%20Since%202024&descAlign=50&descAlignY=70" />
+</p>
+
 # Development Tools I've Learned
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
