@@ -10,7 +10,7 @@ I'm Abdusamadov Abduboriy a full-stack, back-end developer
 - 💬 Ask me about back-end, django
 - 📫 How to reach me: abduboriyabdusamadov66@gmail.com
 - 😄 Pronouns: He/Him
-- 
+  
 # Development Tools I've Learned
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
