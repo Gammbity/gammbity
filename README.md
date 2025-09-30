@@ -8,7 +8,7 @@ I'm Abdusamadov Abduboriy a full-stack, back-end developer
 - 🌱 I’m currently learning django-restframework
 - 👯 I’m looking to collaborate on Django
 - 💬 Ask me about back-end, django
-- 📫 How to reach me: abduboriyabdusamdov66@gamil.com
+- 📫 How to reach me: abduboriyabdusamdov66@gmail.com
 - 😄 Pronouns: He/Him
 - 
 # Development Tools I've Learned
