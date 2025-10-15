@@ -1,50 +1,73 @@
-## Hi there 👋
-
-Here are some ideas to get you started:
-
-I'm Abdusamadov Abduboriy a full-stack, back-end developer
-
-- 🔭 I’m currently studying at PDP University
-- 🌱 I’m currently learning django-restframework
-- 👯 I’m looking to collaborate on Django
-- 💬 Ask me about back-end, django
-- 📫 How to reach me: abduboriyabdusamadov66@gmail.com
-- 😄 Pronouns: He/Him
-  
-# Development Tools I've Learned
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-3E8E41?style=flat-square&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%2300BFFF?style=flat-square&logo=json-web-tokens)
-![NGINX](https://img.shields.io/badge/NGINX-%2300BFFF?style=flat-square&logo=nginx)
-![SQLite](https://img.shields.io/badge/SQLite-%233B8EB5?style=flat-square&logo=sqlite)
-![Postman](https://img.shields.io/badge/Postman-DC382D?style=flat-square&logo=postman)
-![Swagger](https://img.shields.io/badge/Swagger-%238CCB3F?style=flat-square&logo=swagger)
-![Trello](https://img.shields.io/badge/Trello-%2300BFFF?style=flat-square&logo=trello)
-![Git](https://img.shields.io/badge/Git-%23FF6C37?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Gammbity?theme=dark&font=Noto%20Sans)](https://leetcode.com/Gammbity)
-## 📈 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gammbity&show_icons=true&theme=dracula" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gammbity&show_icons=true&theme=dracula" alt="GitHub Streak" width="400"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gammbity&layout=compact&theme=dracula" alt="Top Languages" width="400"/>
+  <h2 align="center">✦ Xojiakbar Nasriddinov ✦</h2>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&desc=Developer%20Journey%20Since%202022&descAlign=50&descAlignY=70" />
+</p>
 
+<p align="center">
+  <a href="mailto:xojiakbar.dev@gmail.com">
+    <img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/xojiakbardev_uz">
+    <img height="28" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/xojiakbardev_uz/">
+    <img height="28" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
+---
 
+## 🧑‍💻 Men haqimda
 
+- 🧠 Ism: **Xojiakbar Nasriddinov**
+- 🎯 Dasturlashga qiziqish: **2022-yildan**
+- 📍 Mutaxassislik yo‘nalishi: **Web Dasturchi (Full Stack)**
+
+---
+
+## 🚀 Frontend Texnologiyalar:
+
+<code><img height="28" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></code>
+<code><img height="28" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></code>
+<code><img height="28" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></code>
+
+---
+
+## 🧩 Backend Texnologiyalar:
+
+<code><img height="28" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></code>
+<code><img height="28" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></code>
+<code><img height="28" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></code>
+<code><img height="28" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></code>
+<code><img height="28" src="https://img.shields.io/badge/SQLAlchemy-E44D27?style=for-the-badge&logo=sqlalchemy&logoColor=white" /></code>
+
+---
+
+## 🗄 Ma'lumotlar bazalari:
+
+<code><img height="28" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></code>
+<code><img height="28" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /></code>
+<code><img height="28" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></code>
+
+---
+
+## ⚙️ Texnik bilimlar:
+
+<code><img height="24" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></code>
+<code><img height="24" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /></code>
+<code><img height="24" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></code>
+<code><img height="24" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></code>
+<code><img height="24" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /></code>
+
+---
+
+## 📈 GitHub Statistikam:
+
+<img src="https://github-readme-stats.vercel.app/api?username=xojiakbardev&show_icons=true&theme=tokyonight" />
+
+## LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/hojiakbar2806?theme=dark&font=Noto%20Sans)](https://leetcode.com/hojiakbar2806)
