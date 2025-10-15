@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&desc=Developer%20Journey%20Since%202023&descAlign=50&descAlignY=70" /><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&desc=Developer%20Journey%20Since%202023&descAlign=50&descAlignY=70" />
 </p>
 
 <p align="center">
