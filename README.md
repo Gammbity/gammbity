@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/abdusamadov_033/">
     <img height="28" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abdusamadov-abduboriyxoja">
+  <a href="https://www.linkedin.com/in/abduboriy-abdusamadov/">
     <img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
